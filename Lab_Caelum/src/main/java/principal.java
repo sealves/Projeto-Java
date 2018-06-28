@@ -4,14 +4,14 @@ public class principal {
 	public static void main(String[] args) {
         
 		Gerente novoGerente = new Gerente();
-		novoGerente.setNome("Ti„o Gerente");
+		novoGerente.setNome("Ti√£o Gerente");
 		novoGerente.setCpf("80104231149");
 		novoGerente.setSalario(4000.00);
 		
-		System.out.println("O nome do gerente È: " + novoGerente.getNome());
-		System.out.println("A bonifiÁ„o do gerente È: "+novoGerente.getBonificacao());
+		System.out.println("O nome do gerente : " + novoGerente.getNome());
+		System.out.println("A bonifi√ß√£oo do gerente : "+novoGerente.getBonificacao());
 		
-		System.out.println("Mais um commint Tiao");
+		System.out.println("Mais um commint Tiao - Sucesso");
 	}
 
 }
