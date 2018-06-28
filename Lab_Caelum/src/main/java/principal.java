@@ -11,10 +11,8 @@ public class principal {
 		System.out.println("O nome do gerente : " + novoGerente.getNome());
 		System.out.println("A bonifiçãoo do gerente : "+novoGerente.getBonificacao());
 		
-		System.out.println("Mais um commint Tiao - Sucesso");
-		System.out.println("Agora Sim");
-		
-		System.out.println("Sebastiao Eudes");
+		System.out.println("Eu agora mando no Git");
+
 	}
 
 }
