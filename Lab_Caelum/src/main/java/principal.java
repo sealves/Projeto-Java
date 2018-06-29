@@ -11,7 +11,7 @@ public class principal {
 		System.out.println("O nome do gerente : " + novoGerente.getNome());
 		System.out.println("A bonificacao do gerente : "+novoGerente.getBonificacao());
 		
-		System.out.println("Usando o GitHub 123");
+		System.out.println("Usando o GitHub 123-456");
 
 	}
 
